@@ -1,0 +1,24 @@
+# Virtual environment
+env/
+venv/
+
+# Cache files
+__pycache__/
+*.py[cod]
+
+# CSV dataset
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Model files or large binaries
+*.h5
+*.pkl
+
+# VS Code settings
+.vscode/
+
